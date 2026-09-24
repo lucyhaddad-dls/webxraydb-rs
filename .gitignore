@@ -32,3 +32,6 @@ Thumbs.db
 
 # Reference papers
 paper/
+
+.bun/
+.tanstack/

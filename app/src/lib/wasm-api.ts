@@ -41,4 +41,5 @@ export {
   // Self-absorption
   sa_booth_reference,
   sa_ameyanagi,
-} from "~/wasm-pkg/webxraydb_wasm";
+} from "/wasm-pkg/webxraydb_wasm"
+

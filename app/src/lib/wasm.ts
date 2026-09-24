@@ -1,4 +1,4 @@
-import init from "~/wasm-pkg/webxraydb_wasm";
+import init from "/wasm-pkg/webxraydb_wasm"
 
 let initialized = false;
 let initPromise: Promise<void> | null = null;

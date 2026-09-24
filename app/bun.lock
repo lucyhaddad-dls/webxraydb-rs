@@ -10,7 +10,7 @@
         "katex": "^0.16.33",
         "react": "^19",
         "react-dom": "^19",
-        "ruviz": "0.11.0",
+        "ruviz": "0.11.0"
       },
       "devDependencies": {
         "@tailwindcss/vite": "^4",
@@ -29,7 +29,7 @@
         "typescript": "^5",
         "vite": "^7",
         "vite-tsconfig-paths": "^5",
-        "vitest": "^3.2.4",
+        "vitest": "^3.2.4"
       },
     },
   },

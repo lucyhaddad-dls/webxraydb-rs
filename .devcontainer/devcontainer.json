@@ -1,0 +1,15 @@
+{
+    "name": "web-xraydb",
+    "build": {
+        "dockerfile": "../Dockerfile"
+    },
+    "runArgs": ["--security-opt=label=type:container_runtime_t"],
+    "remoteEnv": {
+        "HOME": ""
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": ["dbaeumer.vscode-eslint", "esbenp.prettier-vscode"]
+        }
+    }   
+}
