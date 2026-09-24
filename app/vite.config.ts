@@ -35,6 +35,6 @@ export default defineConfig({
     },
   },
   optimizeDeps: {
-    exclude: ["webxraydb-wasm"],
+    exclude: ["webxraydb-wasm", "ruviz-web"],
   },
 });
